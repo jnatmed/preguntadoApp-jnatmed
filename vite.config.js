@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-	base: '/preguntandoApp/',
+	base: '/preguntadoApp-jnatmed/',
 	build: {
 		outDir: 'docs',
 	},
